@@ -4,3 +4,4 @@ export { compareShipmentsStreamedEligibility } from './features/shipments-compar
 export { selectSuppliersStreamedEligibility } from './features/suppliers-select-streamed-eligibility.js';
 export { estimateTablesStreamedEligibility } from './features/tables-estimate-streamed-eligibility.js';
 export { partitionTeamsStreamedEligibility } from './features/teams-partition-streamed-eligibility.js';
+export { aggregateTelemetryStreamedEligibility } from './features/telemetry-aggregate-streamed-eligibility.js';
