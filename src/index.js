@@ -3,3 +3,4 @@ export { resolveSettingsStreamedEligibility } from './features/settings-resolve-
 export { compareShipmentsStreamedEligibility } from './features/shipments-compare-streamed-eligibility.js';
 export { selectSuppliersStreamedEligibility } from './features/suppliers-select-streamed-eligibility.js';
 export { estimateTablesStreamedEligibility } from './features/tables-estimate-streamed-eligibility.js';
+export { partitionTeamsStreamedEligibility } from './features/teams-partition-streamed-eligibility.js';
