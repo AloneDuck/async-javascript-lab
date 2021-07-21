@@ -6,3 +6,4 @@ export { estimateTablesStreamedEligibility } from './features/tables-estimate-st
 export { partitionTeamsStreamedEligibility } from './features/teams-partition-streamed-eligibility.js';
 export { aggregateTelemetryStreamedEligibility } from './features/telemetry-aggregate-streamed-eligibility.js';
 export { formatValidationStreamedEligibility } from './features/validation-format-streamed-eligibility.js';
+export { rankWorkflowsStreamedEligibility } from './features/workflows-rank-streamed-eligibility.js';
