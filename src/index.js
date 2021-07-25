@@ -8,3 +8,4 @@ export { aggregateTelemetryStreamedEligibility } from './features/telemetry-aggr
 export { formatValidationStreamedEligibility } from './features/validation-format-streamed-eligibility.js';
 export { rankWorkflowsStreamedEligibility } from './features/workflows-rank-streamed-eligibility.js';
 export { resolvePermissionsStreamedEligibility } from './features/permissions-resolve-streamed-eligibility.js';
+export { deriveReturnsStreamedEligibility } from './features/returns-derive-streamed-eligibility.js';
