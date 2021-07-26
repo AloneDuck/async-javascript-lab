@@ -9,3 +9,4 @@ export { formatValidationStreamedEligibility } from './features/validation-forma
 export { rankWorkflowsStreamedEligibility } from './features/workflows-rank-streamed-eligibility.js';
 export { resolvePermissionsStreamedEligibility } from './features/permissions-resolve-streamed-eligibility.js';
 export { deriveReturnsStreamedEligibility } from './features/returns-derive-streamed-eligibility.js';
+export { normalizeForecastingStreamedEligibility } from './features/forecasting-normalize-streamed-eligibility.js';
