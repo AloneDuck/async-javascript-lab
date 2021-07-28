@@ -11,3 +11,4 @@ export { resolvePermissionsStreamedEligibility } from './features/permissions-re
 export { deriveReturnsStreamedEligibility } from './features/returns-derive-streamed-eligibility.js';
 export { normalizeForecastingStreamedEligibility } from './features/forecasting-normalize-streamed-eligibility.js';
 export { filterAccountsSynchronizedEligibility } from './features/accounts-filter-synchronized-eligibility.js';
+export { prioritizeAnalyticsSynchronizedEligibility } from './features/analytics-prioritize-synchronized-eligibility.js';
