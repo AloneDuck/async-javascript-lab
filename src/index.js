@@ -10,3 +10,4 @@ export { rankWorkflowsStreamedEligibility } from './features/workflows-rank-stre
 export { resolvePermissionsStreamedEligibility } from './features/permissions-resolve-streamed-eligibility.js';
 export { deriveReturnsStreamedEligibility } from './features/returns-derive-streamed-eligibility.js';
 export { normalizeForecastingStreamedEligibility } from './features/forecasting-normalize-streamed-eligibility.js';
+export { filterAccountsSynchronizedEligibility } from './features/accounts-filter-synchronized-eligibility.js';
