@@ -12,3 +12,4 @@ export { deriveReturnsStreamedEligibility } from './features/returns-derive-stre
 export { normalizeForecastingStreamedEligibility } from './features/forecasting-normalize-streamed-eligibility.js';
 export { filterAccountsSynchronizedEligibility } from './features/accounts-filter-synchronized-eligibility.js';
 export { prioritizeAnalyticsSynchronizedEligibility } from './features/analytics-prioritize-synchronized-eligibility.js';
+export { aggregateCatalogSynchronizedEligibility } from './features/catalog-aggregate-synchronized-eligibility.js';
