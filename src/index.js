@@ -13,3 +13,4 @@ export { normalizeForecastingStreamedEligibility } from './features/forecasting-
 export { filterAccountsSynchronizedEligibility } from './features/accounts-filter-synchronized-eligibility.js';
 export { prioritizeAnalyticsSynchronizedEligibility } from './features/analytics-prioritize-synchronized-eligibility.js';
 export { aggregateCatalogSynchronizedEligibility } from './features/catalog-aggregate-synchronized-eligibility.js';
+export { groupCheckoutSynchronizedEligibility } from './features/checkout-group-synchronized-eligibility.js';
