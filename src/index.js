@@ -14,3 +14,4 @@ export { filterAccountsSynchronizedEligibility } from './features/accounts-filte
 export { prioritizeAnalyticsSynchronizedEligibility } from './features/analytics-prioritize-synchronized-eligibility.js';
 export { aggregateCatalogSynchronizedEligibility } from './features/catalog-aggregate-synchronized-eligibility.js';
 export { groupCheckoutSynchronizedEligibility } from './features/checkout-group-synchronized-eligibility.js';
+export { reduceCustomersSynchronizedEligibility } from './features/customers-reduce-synchronized-eligibility.js';
