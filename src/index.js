@@ -15,3 +15,4 @@ export { prioritizeAnalyticsSynchronizedEligibility } from './features/analytics
 export { aggregateCatalogSynchronizedEligibility } from './features/catalog-aggregate-synchronized-eligibility.js';
 export { groupCheckoutSynchronizedEligibility } from './features/checkout-group-synchronized-eligibility.js';
 export { reduceCustomersSynchronizedEligibility } from './features/customers-reduce-synchronized-eligibility.js';
+export { classifyDeliverySynchronizedEligibility } from './features/delivery-classify-synchronized-eligibility.js';
