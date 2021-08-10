@@ -17,3 +17,4 @@ export { groupCheckoutSynchronizedEligibility } from './features/checkout-group-
 export { reduceCustomersSynchronizedEligibility } from './features/customers-reduce-synchronized-eligibility.js';
 export { classifyDeliverySynchronizedEligibility } from './features/delivery-classify-synchronized-eligibility.js';
 export { measureFiltersSynchronizedEligibility } from './features/filters-measure-synchronized-eligibility.js';
+export { deriveFulfillmentSynchronizedEligibility } from './features/fulfillment-derive-synchronized-eligibility.js';
