@@ -18,3 +18,4 @@ export { reduceCustomersSynchronizedEligibility } from './features/customers-red
 export { classifyDeliverySynchronizedEligibility } from './features/delivery-classify-synchronized-eligibility.js';
 export { measureFiltersSynchronizedEligibility } from './features/filters-measure-synchronized-eligibility.js';
 export { deriveFulfillmentSynchronizedEligibility } from './features/fulfillment-derive-synchronized-eligibility.js';
+export { partitionInventorySynchronizedEligibility } from './features/inventory-partition-synchronized-eligibility.js';
