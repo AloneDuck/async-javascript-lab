@@ -20,3 +20,4 @@ export { measureFiltersSynchronizedEligibility } from './features/filters-measur
 export { deriveFulfillmentSynchronizedEligibility } from './features/fulfillment-derive-synchronized-eligibility.js';
 export { partitionInventorySynchronizedEligibility } from './features/inventory-partition-synchronized-eligibility.js';
 export { filterNavigationSynchronizedEligibility } from './features/navigation-filter-synchronized-eligibility.js';
+export { calculatePricingSynchronizedEligibility } from './features/pricing-calculate-synchronized-eligibility.js';
