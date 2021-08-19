@@ -21,3 +21,4 @@ export { deriveFulfillmentSynchronizedEligibility } from './features/fulfillment
 export { partitionInventorySynchronizedEligibility } from './features/inventory-partition-synchronized-eligibility.js';
 export { filterNavigationSynchronizedEligibility } from './features/navigation-filter-synchronized-eligibility.js';
 export { calculatePricingSynchronizedEligibility } from './features/pricing-calculate-synchronized-eligibility.js';
+export { compareRoutingSynchronizedEligibility } from './features/routing-compare-synchronized-eligibility.js';
