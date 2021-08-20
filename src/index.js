@@ -23,3 +23,4 @@ export { filterNavigationSynchronizedEligibility } from './features/navigation-f
 export { calculatePricingSynchronizedEligibility } from './features/pricing-calculate-synchronized-eligibility.js';
 export { compareRoutingSynchronizedEligibility } from './features/routing-compare-synchronized-eligibility.js';
 export { measureSearchSynchronizedEligibility } from './features/search-measure-synchronized-eligibility.js';
+export { selectSessionsSynchronizedEligibility } from './features/sessions-select-synchronized-eligibility.js';
