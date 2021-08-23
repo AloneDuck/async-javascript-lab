@@ -26,3 +26,4 @@ export { measureSearchSynchronizedEligibility } from './features/search-measure-
 export { selectSessionsSynchronizedEligibility } from './features/sessions-select-synchronized-eligibility.js';
 export { estimateSettingsSynchronizedEligibility } from './features/settings-estimate-synchronized-eligibility.js';
 export { partitionShipmentsSynchronizedEligibility } from './features/shipments-partition-synchronized-eligibility.js';
+export { aggregateStateSynchronizedEligibility } from './features/state-aggregate-synchronized-eligibility.js';
