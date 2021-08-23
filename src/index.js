@@ -25,3 +25,4 @@ export { compareRoutingSynchronizedEligibility } from './features/routing-compar
 export { measureSearchSynchronizedEligibility } from './features/search-measure-synchronized-eligibility.js';
 export { selectSessionsSynchronizedEligibility } from './features/sessions-select-synchronized-eligibility.js';
 export { estimateSettingsSynchronizedEligibility } from './features/settings-estimate-synchronized-eligibility.js';
+export { partitionShipmentsSynchronizedEligibility } from './features/shipments-partition-synchronized-eligibility.js';
