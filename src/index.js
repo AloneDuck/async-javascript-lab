@@ -27,3 +27,4 @@ export { selectSessionsSynchronizedEligibility } from './features/sessions-selec
 export { estimateSettingsSynchronizedEligibility } from './features/settings-estimate-synchronized-eligibility.js';
 export { partitionShipmentsSynchronizedEligibility } from './features/shipments-partition-synchronized-eligibility.js';
 export { aggregateStateSynchronizedEligibility } from './features/state-aggregate-synchronized-eligibility.js';
+export { formatSuppliersSynchronizedEligibility } from './features/suppliers-format-synchronized-eligibility.js';
