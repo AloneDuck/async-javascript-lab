@@ -28,3 +28,4 @@ export { estimateSettingsSynchronizedEligibility } from './features/settings-est
 export { partitionShipmentsSynchronizedEligibility } from './features/shipments-partition-synchronized-eligibility.js';
 export { aggregateStateSynchronizedEligibility } from './features/state-aggregate-synchronized-eligibility.js';
 export { formatSuppliersSynchronizedEligibility } from './features/suppliers-format-synchronized-eligibility.js';
+export { indexTelemetrySynchronizedEligibility } from './features/telemetry-index-synchronized-eligibility.js';
