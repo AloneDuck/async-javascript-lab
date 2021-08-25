@@ -30,3 +30,4 @@ export { aggregateStateSynchronizedEligibility } from './features/state-aggregat
 export { formatSuppliersSynchronizedEligibility } from './features/suppliers-format-synchronized-eligibility.js';
 export { indexTelemetrySynchronizedEligibility } from './features/telemetry-index-synchronized-eligibility.js';
 export { resolveValidationSynchronizedEligibility } from './features/validation-resolve-synchronized-eligibility.js';
+export { deriveWorkflowsSynchronizedEligibility } from './features/workflows-derive-synchronized-eligibility.js';
