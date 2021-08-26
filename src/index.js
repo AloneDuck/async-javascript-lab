@@ -31,3 +31,4 @@ export { formatSuppliersSynchronizedEligibility } from './features/suppliers-for
 export { indexTelemetrySynchronizedEligibility } from './features/telemetry-index-synchronized-eligibility.js';
 export { resolveValidationSynchronizedEligibility } from './features/validation-resolve-synchronized-eligibility.js';
 export { deriveWorkflowsSynchronizedEligibility } from './features/workflows-derive-synchronized-eligibility.js';
+export { filterPermissionsSynchronizedEligibility } from './features/permissions-filter-synchronized-eligibility.js';
