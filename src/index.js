@@ -32,3 +32,4 @@ export { indexTelemetrySynchronizedEligibility } from './features/telemetry-inde
 export { resolveValidationSynchronizedEligibility } from './features/validation-resolve-synchronized-eligibility.js';
 export { deriveWorkflowsSynchronizedEligibility } from './features/workflows-derive-synchronized-eligibility.js';
 export { filterPermissionsSynchronizedEligibility } from './features/permissions-filter-synchronized-eligibility.js';
+export { prioritizeReturnsSynchronizedEligibility } from './features/returns-prioritize-synchronized-eligibility.js';
