@@ -33,3 +33,4 @@ export { resolveValidationSynchronizedEligibility } from './features/validation-
 export { deriveWorkflowsSynchronizedEligibility } from './features/workflows-derive-synchronized-eligibility.js';
 export { filterPermissionsSynchronizedEligibility } from './features/permissions-filter-synchronized-eligibility.js';
 export { prioritizeReturnsSynchronizedEligibility } from './features/returns-prioritize-synchronized-eligibility.js';
+export { reduceAccountsTypedEligibility } from './features/accounts-reduce-typed-eligibility.js';
