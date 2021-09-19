@@ -34,3 +34,4 @@ export { deriveWorkflowsSynchronizedEligibility } from './features/workflows-der
 export { filterPermissionsSynchronizedEligibility } from './features/permissions-filter-synchronized-eligibility.js';
 export { prioritizeReturnsSynchronizedEligibility } from './features/returns-prioritize-synchronized-eligibility.js';
 export { reduceAccountsTypedEligibility } from './features/accounts-reduce-typed-eligibility.js';
+export { measureCatalogTypedEligibility } from './features/catalog-measure-typed-eligibility.js';
