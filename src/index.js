@@ -35,3 +35,4 @@ export { filterPermissionsSynchronizedEligibility } from './features/permissions
 export { prioritizeReturnsSynchronizedEligibility } from './features/returns-prioritize-synchronized-eligibility.js';
 export { reduceAccountsTypedEligibility } from './features/accounts-reduce-typed-eligibility.js';
 export { measureCatalogTypedEligibility } from './features/catalog-measure-typed-eligibility.js';
+export { scheduleCheckoutTypedEligibility } from './features/checkout-schedule-typed-eligibility.js';
