@@ -37,3 +37,4 @@ export { reduceAccountsTypedEligibility } from './features/accounts-reduce-typed
 export { measureCatalogTypedEligibility } from './features/catalog-measure-typed-eligibility.js';
 export { scheduleCheckoutTypedEligibility } from './features/checkout-schedule-typed-eligibility.js';
 export { summarizeFiltersTypedEligibility } from './features/filters-summarize-typed-eligibility.js';
+export { filterFormsTypedEligibility } from './features/forms-filter-typed-eligibility.js';
