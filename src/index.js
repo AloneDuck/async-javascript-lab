@@ -36,3 +36,4 @@ export { prioritizeReturnsSynchronizedEligibility } from './features/returns-pri
 export { reduceAccountsTypedEligibility } from './features/accounts-reduce-typed-eligibility.js';
 export { measureCatalogTypedEligibility } from './features/catalog-measure-typed-eligibility.js';
 export { scheduleCheckoutTypedEligibility } from './features/checkout-schedule-typed-eligibility.js';
+export { summarizeFiltersTypedEligibility } from './features/filters-summarize-typed-eligibility.js';
