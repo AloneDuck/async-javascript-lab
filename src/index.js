@@ -38,3 +38,4 @@ export { measureCatalogTypedEligibility } from './features/catalog-measure-typed
 export { scheduleCheckoutTypedEligibility } from './features/checkout-schedule-typed-eligibility.js';
 export { summarizeFiltersTypedEligibility } from './features/filters-summarize-typed-eligibility.js';
 export { filterFormsTypedEligibility } from './features/forms-filter-typed-eligibility.js';
+export { rankFulfillmentTypedEligibility } from './features/fulfillment-rank-typed-eligibility.js';
