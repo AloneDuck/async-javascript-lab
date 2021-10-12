@@ -39,3 +39,4 @@ export { scheduleCheckoutTypedEligibility } from './features/checkout-schedule-t
 export { summarizeFiltersTypedEligibility } from './features/filters-summarize-typed-eligibility.js';
 export { filterFormsTypedEligibility } from './features/forms-filter-typed-eligibility.js';
 export { rankFulfillmentTypedEligibility } from './features/fulfillment-rank-typed-eligibility.js';
+export { calculateInventoryTypedEligibility } from './features/inventory-calculate-typed-eligibility.js';
