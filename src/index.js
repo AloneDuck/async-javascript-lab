@@ -40,3 +40,4 @@ export { summarizeFiltersTypedEligibility } from './features/filters-summarize-t
 export { filterFormsTypedEligibility } from './features/forms-filter-typed-eligibility.js';
 export { rankFulfillmentTypedEligibility } from './features/fulfillment-rank-typed-eligibility.js';
 export { calculateInventoryTypedEligibility } from './features/inventory-calculate-typed-eligibility.js';
+export { resolveNavigationTypedEligibility } from './features/navigation-resolve-typed-eligibility.js';
