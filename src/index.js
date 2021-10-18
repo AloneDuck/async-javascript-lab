@@ -41,3 +41,4 @@ export { filterFormsTypedEligibility } from './features/forms-filter-typed-eligi
 export { rankFulfillmentTypedEligibility } from './features/fulfillment-rank-typed-eligibility.js';
 export { calculateInventoryTypedEligibility } from './features/inventory-calculate-typed-eligibility.js';
 export { resolveNavigationTypedEligibility } from './features/navigation-resolve-typed-eligibility.js';
+export { measurePricingTypedEligibility } from './features/pricing-measure-typed-eligibility.js';
