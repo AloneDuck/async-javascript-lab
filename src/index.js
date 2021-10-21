@@ -43,3 +43,4 @@ export { calculateInventoryTypedEligibility } from './features/inventory-calcula
 export { resolveNavigationTypedEligibility } from './features/navigation-resolve-typed-eligibility.js';
 export { measurePricingTypedEligibility } from './features/pricing-measure-typed-eligibility.js';
 export { partitionRoutingTypedEligibility } from './features/routing-partition-typed-eligibility.js';
+export { aggregateSearchTypedEligibility } from './features/search-aggregate-typed-eligibility.js';
