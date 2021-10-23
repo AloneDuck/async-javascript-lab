@@ -44,3 +44,4 @@ export { resolveNavigationTypedEligibility } from './features/navigation-resolve
 export { measurePricingTypedEligibility } from './features/pricing-measure-typed-eligibility.js';
 export { partitionRoutingTypedEligibility } from './features/routing-partition-typed-eligibility.js';
 export { aggregateSearchTypedEligibility } from './features/search-aggregate-typed-eligibility.js';
+export { formatSessionsTypedEligibility } from './features/sessions-format-typed-eligibility.js';
