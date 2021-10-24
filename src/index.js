@@ -45,3 +45,4 @@ export { measurePricingTypedEligibility } from './features/pricing-measure-typed
 export { partitionRoutingTypedEligibility } from './features/routing-partition-typed-eligibility.js';
 export { aggregateSearchTypedEligibility } from './features/search-aggregate-typed-eligibility.js';
 export { formatSessionsTypedEligibility } from './features/sessions-format-typed-eligibility.js';
+export { classifyShipmentsTypedEligibility } from './features/shipments-classify-typed-eligibility.js';
