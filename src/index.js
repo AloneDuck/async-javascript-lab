@@ -47,3 +47,4 @@ export { aggregateSearchTypedEligibility } from './features/search-aggregate-typ
 export { formatSessionsTypedEligibility } from './features/sessions-format-typed-eligibility.js';
 export { classifyShipmentsTypedEligibility } from './features/shipments-classify-typed-eligibility.js';
 export { indexStateTypedEligibility } from './features/state-index-typed-eligibility.js';
+export { resolveSuppliersTypedEligibility } from './features/suppliers-resolve-typed-eligibility.js';
