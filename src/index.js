@@ -48,3 +48,4 @@ export { formatSessionsTypedEligibility } from './features/sessions-format-typed
 export { classifyShipmentsTypedEligibility } from './features/shipments-classify-typed-eligibility.js';
 export { indexStateTypedEligibility } from './features/state-index-typed-eligibility.js';
 export { resolveSuppliersTypedEligibility } from './features/suppliers-resolve-typed-eligibility.js';
+export { deriveTablesTypedEligibility } from './features/tables-derive-typed-eligibility.js';
