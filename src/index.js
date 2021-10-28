@@ -49,3 +49,4 @@ export { classifyShipmentsTypedEligibility } from './features/shipments-classify
 export { indexStateTypedEligibility } from './features/state-index-typed-eligibility.js';
 export { resolveSuppliersTypedEligibility } from './features/suppliers-resolve-typed-eligibility.js';
 export { deriveTablesTypedEligibility } from './features/tables-derive-typed-eligibility.js';
+export { normalizeTeamsTypedEligibility } from './features/teams-normalize-typed-eligibility.js';
