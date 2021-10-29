@@ -50,3 +50,4 @@ export { indexStateTypedEligibility } from './features/state-index-typed-eligibi
 export { resolveSuppliersTypedEligibility } from './features/suppliers-resolve-typed-eligibility.js';
 export { deriveTablesTypedEligibility } from './features/tables-derive-typed-eligibility.js';
 export { normalizeTeamsTypedEligibility } from './features/teams-normalize-typed-eligibility.js';
+export { filterValidationTypedEligibility } from './features/validation-filter-typed-eligibility.js';
