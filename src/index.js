@@ -52,3 +52,4 @@ export { deriveTablesTypedEligibility } from './features/tables-derive-typed-eli
 export { normalizeTeamsTypedEligibility } from './features/teams-normalize-typed-eligibility.js';
 export { filterValidationTypedEligibility } from './features/validation-filter-typed-eligibility.js';
 export { aggregateWorkspaceTypedEligibility } from './features/workspace-aggregate-typed-eligibility.js';
+export { groupNotificationsTypedEligibility } from './features/notifications-group-typed-eligibility.js';
