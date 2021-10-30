@@ -51,3 +51,4 @@ export { resolveSuppliersTypedEligibility } from './features/suppliers-resolve-t
 export { deriveTablesTypedEligibility } from './features/tables-derive-typed-eligibility.js';
 export { normalizeTeamsTypedEligibility } from './features/teams-normalize-typed-eligibility.js';
 export { filterValidationTypedEligibility } from './features/validation-filter-typed-eligibility.js';
+export { aggregateWorkspaceTypedEligibility } from './features/workspace-aggregate-typed-eligibility.js';
