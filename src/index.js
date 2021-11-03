@@ -53,3 +53,4 @@ export { normalizeTeamsTypedEligibility } from './features/teams-normalize-typed
 export { filterValidationTypedEligibility } from './features/validation-filter-typed-eligibility.js';
 export { aggregateWorkspaceTypedEligibility } from './features/workspace-aggregate-typed-eligibility.js';
 export { groupNotificationsTypedEligibility } from './features/notifications-group-typed-eligibility.js';
+export { classifyReturnsTypedEligibility } from './features/returns-classify-typed-eligibility.js';
