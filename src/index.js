@@ -54,3 +54,4 @@ export { filterValidationTypedEligibility } from './features/validation-filter-t
 export { aggregateWorkspaceTypedEligibility } from './features/workspace-aggregate-typed-eligibility.js';
 export { groupNotificationsTypedEligibility } from './features/notifications-group-typed-eligibility.js';
 export { classifyReturnsTypedEligibility } from './features/returns-classify-typed-eligibility.js';
+export { measureForecastingTypedEligibility } from './features/forecasting-measure-typed-eligibility.js';
