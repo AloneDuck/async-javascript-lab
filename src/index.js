@@ -56,3 +56,4 @@ export { groupNotificationsTypedEligibility } from './features/notifications-gro
 export { classifyReturnsTypedEligibility } from './features/returns-classify-typed-eligibility.js';
 export { measureForecastingTypedEligibility } from './features/forecasting-measure-typed-eligibility.js';
 export { scheduleAccessibilityValidatedEligibility } from './features/accessibility-schedule-validated-eligibility.js';
+export { deriveAccountsValidatedEligibility } from './features/accounts-derive-validated-eligibility.js';
