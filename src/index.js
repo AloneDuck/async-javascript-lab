@@ -58,3 +58,4 @@ export { measureForecastingTypedEligibility } from './features/forecasting-measu
 export { scheduleAccessibilityValidatedEligibility } from './features/accessibility-schedule-validated-eligibility.js';
 export { deriveAccountsValidatedEligibility } from './features/accounts-derive-validated-eligibility.js';
 export { partitionAnalyticsValidatedEligibility } from './features/analytics-partition-validated-eligibility.js';
+export { summarizeCatalogValidatedEligibility } from './features/catalog-summarize-validated-eligibility.js';
