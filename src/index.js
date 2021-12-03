@@ -59,3 +59,4 @@ export { scheduleAccessibilityValidatedEligibility } from './features/accessibil
 export { deriveAccountsValidatedEligibility } from './features/accounts-derive-validated-eligibility.js';
 export { partitionAnalyticsValidatedEligibility } from './features/analytics-partition-validated-eligibility.js';
 export { summarizeCatalogValidatedEligibility } from './features/catalog-summarize-validated-eligibility.js';
+export { rankCustomersValidatedEligibility } from './features/customers-rank-validated-eligibility.js';
