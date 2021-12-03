@@ -60,3 +60,4 @@ export { deriveAccountsValidatedEligibility } from './features/accounts-derive-v
 export { partitionAnalyticsValidatedEligibility } from './features/analytics-partition-validated-eligibility.js';
 export { summarizeCatalogValidatedEligibility } from './features/catalog-summarize-validated-eligibility.js';
 export { rankCustomersValidatedEligibility } from './features/customers-rank-validated-eligibility.js';
+export { groupFiltersValidatedEligibility } from './features/filters-group-validated-eligibility.js';
