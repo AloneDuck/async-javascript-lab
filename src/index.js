@@ -61,3 +61,4 @@ export { partitionAnalyticsValidatedEligibility } from './features/analytics-par
 export { summarizeCatalogValidatedEligibility } from './features/catalog-summarize-validated-eligibility.js';
 export { rankCustomersValidatedEligibility } from './features/customers-rank-validated-eligibility.js';
 export { groupFiltersValidatedEligibility } from './features/filters-group-validated-eligibility.js';
+export { resolveFormsValidatedEligibility } from './features/forms-resolve-validated-eligibility.js';
