@@ -65,3 +65,4 @@ export { resolveFormsValidatedEligibility } from './features/forms-resolve-valid
 export { compareFulfillmentValidatedEligibility } from './features/fulfillment-compare-validated-eligibility.js';
 export { partitionOrdersValidatedEligibility } from './features/orders-partition-validated-eligibility.js';
 export { aggregatePricingValidatedEligibility } from './features/pricing-aggregate-validated-eligibility.js';
+export { formatProductsValidatedEligibility } from './features/products-format-validated-eligibility.js';
