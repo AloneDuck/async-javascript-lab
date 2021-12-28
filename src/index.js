@@ -64,3 +64,4 @@ export { groupFiltersValidatedEligibility } from './features/filters-group-valid
 export { resolveFormsValidatedEligibility } from './features/forms-resolve-validated-eligibility.js';
 export { compareFulfillmentValidatedEligibility } from './features/fulfillment-compare-validated-eligibility.js';
 export { partitionOrdersValidatedEligibility } from './features/orders-partition-validated-eligibility.js';
+export { aggregatePricingValidatedEligibility } from './features/pricing-aggregate-validated-eligibility.js';
