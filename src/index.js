@@ -63,3 +63,4 @@ export { rankCustomersValidatedEligibility } from './features/customers-rank-val
 export { groupFiltersValidatedEligibility } from './features/filters-group-validated-eligibility.js';
 export { resolveFormsValidatedEligibility } from './features/forms-resolve-validated-eligibility.js';
 export { compareFulfillmentValidatedEligibility } from './features/fulfillment-compare-validated-eligibility.js';
+export { partitionOrdersValidatedEligibility } from './features/orders-partition-validated-eligibility.js';
