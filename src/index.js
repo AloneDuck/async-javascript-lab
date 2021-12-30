@@ -66,3 +66,4 @@ export { compareFulfillmentValidatedEligibility } from './features/fulfillment-c
 export { partitionOrdersValidatedEligibility } from './features/orders-partition-validated-eligibility.js';
 export { aggregatePricingValidatedEligibility } from './features/pricing-aggregate-validated-eligibility.js';
 export { formatProductsValidatedEligibility } from './features/products-format-validated-eligibility.js';
+export { rankReportsValidatedEligibility } from './features/reports-rank-validated-eligibility.js';
