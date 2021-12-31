@@ -67,3 +67,4 @@ export { partitionOrdersValidatedEligibility } from './features/orders-partition
 export { aggregatePricingValidatedEligibility } from './features/pricing-aggregate-validated-eligibility.js';
 export { formatProductsValidatedEligibility } from './features/products-format-validated-eligibility.js';
 export { rankReportsValidatedEligibility } from './features/reports-rank-validated-eligibility.js';
+export { resolveSessionsValidatedEligibility } from './features/sessions-resolve-validated-eligibility.js';
